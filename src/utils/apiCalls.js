@@ -1,7 +1,7 @@
 import axios from "axios";
 import toast from "react-hot-toast";
 
-const BASE_URL = "https://notes-application-backend-mgpv.onrender.com/api/notes";
+const BASE_URL = "https://notes-application-backend-flt0.onrender.com/api/notes";
 
 export const getNotesAPICall = async () => {
   try {
